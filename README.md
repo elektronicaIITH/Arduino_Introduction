@@ -46,7 +46,7 @@ cd /arduino-1.8.5
 sudo nano install.sh
 ```
 The result should look like this:  
-  ![Image](https://imgur.com/6mrobZA)
+  ![Image](https://i.imgur.com/6mrobZA.png)
    
   7. Make the file executable and run it.
   ```Shell
