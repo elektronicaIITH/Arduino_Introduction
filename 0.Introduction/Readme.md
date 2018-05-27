@@ -1,9 +1,13 @@
 # Introduction
 
 ### What is Microcontroller?
-A microcontroller (or MCU for microcontroller unit) is a small computer on a single integrated circuit. In modern terminology, it is a system on a chip or SoC. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals - From Wikipedia  :stuck_out_tongue:
+A microcontroller (or MCU for microcontroller unit) is a small computer on a single integrated circuit. In modern terminology, it is a system on a chip or SoC. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals - Wikipedia  :stuck_out_tongue:
 
-There are Many Microcontrollers avaliable in market for our easy understanding and usage we use Arduino
+At the fundamental level, microcontrollers are just tiny computers and are found in vehicles, robots, office machines, medical devices, mobile radio transceivers, vending machines and home appliances among other devices.
+
+
+There are Many Microcontrollers available in the market.
+We use Arduino because it is open source, flexible, easy to use, inexpensive and most importantly has a large online community.
 
 ### Different types Arduinos in market
   * Arduino Uno   - [Image](http://static.arduino.org/media/k2/galleries/90/A000066-Arduino-Uno-TH-2tri.jpg) 
